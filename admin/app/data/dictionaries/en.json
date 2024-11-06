@@ -1,0 +1,9 @@
+{
+  "navigation": {
+    "dashbaords": "Dashbaords",
+    "calendar": "Calendar",
+    "giftCard": "Gift Cards",
+    "services": "Services",
+    "staffManagements": "Staff Managements"
+  }
+}
